@@ -20,3 +20,8 @@ In the field of front-end development, relatively recently since March 2019. I s
 - jQuery
 - Linux
 - I can google :)   
+
+## Some code examples
+Below I have collected some of my work and I want to share them.  
+- https://www.codewars.com/users/Vasli/completed
+- https://codepen.io/vaslisaidmuradov
