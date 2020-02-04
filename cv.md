@@ -25,3 +25,12 @@ In the field of front-end development, relatively recently since March 2019. I s
 Below I have collected some of my work and I want to share them.  
 - https://www.codewars.com/users/Vasli/completed
 - https://codepen.io/vaslisaidmuradov
+
+## Work experience
+- *Frontend developer* in Maint.kz (March 2019 - currently)   
+- IT support (April 2007 - March 2019)  
+
+Some of my work:   
+- https://github.com/VasliSaidmuradov?tab=repositories
+- https://gitlab.com/VasliSaidmuradov   
+
