@@ -34,3 +34,10 @@ Some of my work:
 - https://github.com/VasliSaidmuradov?tab=repositories
 - https://gitlab.com/VasliSaidmuradov   
 
+## Education
+- Kazakh National Technical University named after K. I. Satpayev, Almaty, ***Systems Engineer*** (2001 - 2006)
+- IIMBx (Indian Institute of Management Bangalore through edX), Online, ***Innovation and Information Technology Management*** (2018)   
+- Educational Portal - GeekBrains, Moscow - Online, ***Frontend developer*** (2018 - 2019)   
+
+## English level
+- Training center "Global-Education Sayram" (2018) - Pre Intermediate level
